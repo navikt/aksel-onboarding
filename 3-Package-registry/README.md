@@ -4,9 +4,13 @@ I Nav publiserer vi pakker til Github npm registry, og ikke npm direkte i de fle
 [Docs](https://aksel.nav.no/god-praksis/artikler/github-npm-registry)
 
 For å da installere pakker i `@navikt`-scope, trenger du en `.npmrc`-fil med registry og token lagt til.
+Dette kan gjøres på to måter:
+
+1. **Globalt (Anbefalt):** Legg konfigurasjonen i `~/.npmrc` (Mac/Linux) eller `%USERPROFILE%\.npmrc` (Windows). Da gjelder den for alle prosjekter, og du risikerer ikke å sjekke inn tokenet i git.
+2. **Lokalt:** Legg en `.npmrc`-fil i roten av prosjektet.
 
 > [!IMPORTANT]
-> .npmrc-filer med token skal ikke sjekkes inn i git!
+> Hvis du bruker lokal .npmrc-fil må du passe på at den **ikke** sjekkes inn i git! Legg den til i `.gitignore`.
 
 ```.npmrc
 ; .npmrc

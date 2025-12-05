@@ -1,0 +1,10 @@
+{
+  "name": "aksel-cli-demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@navikt/ds-react": "latest",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

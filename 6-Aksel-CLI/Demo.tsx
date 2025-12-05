@@ -1,3 +1,4 @@
+import React from "react";
 import { Box } from "@navikt/ds-react";
 
 export const Demo = () => {

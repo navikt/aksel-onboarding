@@ -4,6 +4,16 @@ Aksel har et eget CLI-verktøy som er utrolig nyttig for å migrere mellom versj
 
 [Docs](https://aksel.nav.no/grunnleggende/kode/kommandolinje)
 
+## Oppsett
+
+Før du kjører migreringen, installer avhengighetene:
+
+```
+npm install
+yarn install
+pnpm install
+```
+
 ## Kjøre migrering
 
 Migreringen `v8-primitive-spacing` som vi tester her endrer alle "primitive"-komponentene våre sin "spacing"-attributt fra legacy: "4, 8, 12" etc til "space-16, space-32, space-48" etc
