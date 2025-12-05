@@ -29,9 +29,9 @@ pnpm dlx @navikt/aksel@latest codemod v8-primitive-spacing --force
 ### Du finner alle migreringene tilgjengelig med:
 
 ```
-npx @navikt/aksel@latest codemod help
-yarn dlx @navikt/aksel@latest codemod help
-pnpm dlx @navikt/aksel@latest codemod help
+npx @navikt/aksel@latest codemod --help
+yarn dlx @navikt/aksel@latest codemod --help
+pnpm dlx @navikt/aksel@latest codemod --help
 ```
 
 ## [Neste steg ->](/7-RSC/README.md)
