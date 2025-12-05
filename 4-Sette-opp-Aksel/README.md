@@ -5,51 +5,53 @@ Her er det satt opp boilerplate for en enkel [Vite-app](https://vite.dev/). Mål
 > [!NOTE]
 > Alle pakker fra Aksel følger samme versjon. Det betyr at hvis man er på versjon 7.32.0 av @navikt/ds-react, må @navikt/ds-css også være på samme versjon.
 
-## Steg 1
+## Steg 1: Installer avhengigheter
 
 Installer pakkene med din "package manager"
 
-```
+```bash
 npm install
 yarn install
 pnpm i
 ```
 
-## Steg 2
+## Steg 2: Start appen
 
 Start og verifiser at appen kjører riktig
 
-```
+```bash
 npm run dev
 yarn dev
 pnpm run dev
 ```
 
-## Steg 3
+## Steg 3: Installer Aksel-pakker
 
 Stopp appen, og installer Aksel-pakker
 
-```
+```bash
 npm install @navikt/ds-react @navikt/ds-css @navikt/aksel-icons
 yarn add @navikt/ds-react @navikt/ds-css @navikt/aksel-icons
 pnpm add @navikt/ds-react @navikt/ds-css @navikt/aksel-icons
 ```
 
-## Steg 4: CSS
+## Steg 4: Legg til CSS
 
-Legg til all designsystem-styling. Dette kan endte gjøes med `@import` i root-css, eller direkte `import` i `main.tsx`
+Legg til all designsystem-styling. Dette kan enten gjøres med `@import` i root-css, eller direkte `import` i `main.tsx`
 
-```
+```css
 // index.css
 @import "@navikt/ds-css";
+```
 
-// eller
+eller
 
+```tsx
 // main.tsx
 import "@navikt/ds-css";
 ```
 
-## Steg 5: Komponenter
+## Steg 5: Bruk komponenter
 
 Alt er da klart for å bruke komponentene fra Aksel 🎉
 
@@ -76,7 +78,7 @@ const Example = () => {
 };
 ```
 
-## Steg 6: Ikoner
+## Steg 6: Bruk ikoner
 
 [Aksel har også en egen ikonpakke med over 900 ikoner tilgjengelig](https://aksel.nav.no/komponenter/ikoner).
 

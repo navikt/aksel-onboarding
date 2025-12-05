@@ -6,7 +6,7 @@ Historiskt sett er det litt flere som bruker yarn da node-modules installering v
 
 Etter du har installert Nodejs, skal "npm" være med på kjøpet. For å bruker `yarn` eller `pnpm` må du manuelt slå disse på.
 
-```
+```bash
 // Enable yarn
 corepack enable yarn
 
@@ -20,5 +20,7 @@ Vi anbefaler å alltid sjekke inn "lock"-filer i prosjekter:
 `yarn.lock`, `package-lock.json`, `pnpm-lock.yaml` etc
 
 Dette lar deg kjøre `install` scripts i "CI"-modus, f.eks `pnpm install --frozen-lockfile`, samt gjøre sikkerhetssjekker på koden.
+
+---
 
 ## [Neste steg ->](/3-Package-registry/README.md)

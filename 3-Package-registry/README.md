@@ -1,6 +1,7 @@
 # Package registry
 
 I Nav publiserer vi pakker til Github npm registry, og ikke npm direkte i de fleste tilfeller.
+
 [Docs](https://aksel.nav.no/god-praksis/artikler/github-npm-registry)
 
 For å da installere pakker i `@navikt`-scope, trenger du en `.npmrc`-fil med registry og token lagt til.
@@ -25,5 +26,7 @@ For å hente pakker fra Github npm registry trenger man en token. Denne generere
 ![alt text](</assets/Screenshot 2025-12-05 at 12.24.56.png>)
 
 ![alt text](</assets/Screenshot 2025-12-05 at 12.25.50.png>)
+
+---
 
 ## [Neste steg ->](/4-Sette-opp-Aksel/README.md)

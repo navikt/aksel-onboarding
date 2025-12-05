@@ -1,7 +1,9 @@
+/* Vi fraråder å overskrive css-klassene til Aksel. Vil du gjøre endringer, anbefaler vi å lage en egen klasse  */
 .navds-button {
   color: red;
 }
 
+/* Hvis man bruker ikke-eksisterende token, får man feil på det */
 .my-css {
   background-color: var(--a-red-501);
   /* background-color: var(--a-red-500); */

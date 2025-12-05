@@ -4,9 +4,9 @@ Aksel har sin egen Stylelint-config som sikrer at man bruker riktige css-variabl
 
 [Docs](https://aksel.nav.no/grunnleggende/kode/stylelint)
 
-## Installere stylelint
+## Steg 1: Installer stylelint
 
-```
+```bash
 npm install @navikt/aksel-stylelint stylelint
 yarn add @navikt/aksel-stylelint stylelint
 pnpm add @navikt/aksel-stylelint stylelint
@@ -14,7 +14,7 @@ pnpm add @navikt/aksel-stylelint stylelint
 
 For de som bruker `vscode`, kan stylelint-extension også anbefales.
 
-## Sette opp linting
+## Steg 2: Sett opp linting
 
 ```diff
 {
@@ -38,14 +38,16 @@ For de som bruker `vscode`, kan stylelint-extension også anbefales.
 
 ```
 
-## Teste linter
+## Steg 3: Test linter
 
 Vi har satt opp noen vanlige feil som vår stylelint-config vil advare/varsle om.
 
-```
+```bash
 npm run lint
 yarn lint
 pnpm run lint
 ```
+
+---
 
 ## [Neste steg ->](/6-Aksel-CLI/README.md)
