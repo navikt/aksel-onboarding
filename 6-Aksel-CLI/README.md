@@ -23,3 +23,5 @@ npx @navikt/aksel@latest codemod help
 yarn dlx @navikt/aksel@latest codemod help
 pnpm dlx @navikt/aksel@latest codemod help
 ```
+
+## [Neste steg ->](/7-RSC/README.md)
