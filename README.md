@@ -12,6 +12,9 @@ Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være li
 
 ### Bruke Aksel
 
+- [4. Sette opp Aksel](/4.%20Sette%20opp%20Aksel/README.md)
+- [5. Stylelint](/5.%20Stylelint/README.md)
+
 ## Lesestoff
 
 [Kom i gang som utvikler med Aksel](https://aksel.nav.no/grunnleggende/introduksjon/kom-i-gang-med-kodepakkene)

@@ -2,6 +2,9 @@
 
 Her er det satt opp boilerplate for en enkel [Vite-app](https://vite.dev/). Målet her er å installere Aksel-pakker, og bruke de i appen.
 
+> [!NOTE]
+> Alle pakker fra Aksel følger samme versjon. Det betyr at hvis man er på versjon 7.32.0 av @navikt/ds-react, må @navikt/ds-css også være på samme versjon.
+
 ## Steg 1
 
 Installer pakkene med din "package manager"
