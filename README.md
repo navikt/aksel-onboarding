@@ -4,11 +4,13 @@ Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være li
 
 ## Steg
 
-### Nytt oppsett
+### Devmiljø
 
 - [1. Installere Node](/1.%20Installere%20Node/README.md)
 - [2. Package manager](/2.%20Package%20manager/README.md)
 - [3. Package registry](/3.%20Package%20registry/README.md)
+
+### Bruke Aksel
 
 ## Lesestoff
 

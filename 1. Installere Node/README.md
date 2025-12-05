@@ -7,3 +7,5 @@ De fleste prosjekt i Nav er Nodejs basert. Det finnes løsninger som bruker [Den
 ## Version manager
 
 Jobber du i flere prosjekter, hender det at du må endre Nodejs version mellom dem. Da anbefales det en "version manager" for node. Node anbefaler ["nvm"](https://github.com/nvm-sh/nvm) eller ["fnm"](https://github.com/Schniz/fnm) for dette.
+
+## [Neste steg ->](/2.%20Package%20manager/README.md)

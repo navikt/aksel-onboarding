@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.insert-component {
+  min-height: 10rem;
+  background: #001a330a;
+  padding: 2rem;
+  display: grid;
+  place-items: center;
+}
