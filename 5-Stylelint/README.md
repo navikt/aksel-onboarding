@@ -47,3 +47,5 @@ npm run lint
 yarn lint
 pnpm run lint
 ```
+
+## [Neste steg ->](/6-Aksel-CLI/README.md)

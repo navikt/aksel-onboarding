@@ -89,3 +89,5 @@ const ExampleWithIcon = () => {
   );
 };
 ```
+
+## [Neste steg ->](/5-Stylelint/README.md)

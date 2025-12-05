@@ -6,17 +6,29 @@ Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være li
 
 ### Devmiljø
 
-- [1. Installere Node](/1.%20Installere%20Node/README.md)
-- [2. Package manager](/2.%20Package%20manager/README.md)
-- [3. Package registry](/3.%20Package%20registry/README.md)
+- [1. Installere Node](/1-Installere-Node/README.md)
+- [2. Package manager](/2-Package-manager/README.md)
+- [3. Package registry](/3-Package-registry/README.md)
 
 ### Bruke Aksel
 
-- [4. Sette opp Aksel](/4.%20Sette%20opp%20Aksel/README.md)
-- [5. Stylelint](/5.%20Stylelint/README.md)
+- [4. Sette opp Aksel](/4-Sette-opp-Aksel/README.md)
+- [5. Stylelint](/5-Stylelint/README.md)
+- [6. Aksel CLI](/6-Aksel-CLI/README.md)
 
 ## Lesestoff
 
-[Kom i gang som utvikler med Aksel](https://aksel.nav.no/grunnleggende/introduksjon/kom-i-gang-med-kodepakkene)
+- [Hva er Aksel](https://aksel.nav.no/grunnleggende/introduksjon/hvordan-bruke-aksel)
+- [Kom i gang som utvikler med Aksel](https://aksel.nav.no/grunnleggende/introduksjon/kom-i-gang-med-kodepakkene)
+- [Feedback](https://aksel.nav.no/grunnleggende/introduksjon/har-du-innspill-til-aksel)
+- [Endringslogg](https://aksel.nav.no/grunnleggende/endringslogg)
+
+### Blogg
+
+Aksel har en [egen blogg](https://aksel.nav.no/produktbloggen) der alle har muligheten til å dele noe fra produktutviklingsmiljøet i Nav. Har du eller teamet ditt noe spennende dere ønsker å dele er det bare å ta kontakt med oss i Team Aksel!.
+
+## Bli kjent med utvikling av Frontend i Nav
+
+Vi anbefaler alle å jobbe seg gjennom "Golden path" oppsettet for Frontend når dere har tid. Du vil da bli introdusert til flere ulike systemer i Nav og ha publisert en App når du er ferdig.
 
 [Golden path [aksel.nav.no]](https://aksel.nav.no/god-praksis/artikler/golden-path-frontend)

@@ -21,4 +21,4 @@ Vi anbefaler å alltid sjekke inn "lock"-filer i prosjekter:
 
 Dette lar deg kjøre `install` scripts i "CI"-modus, f.eks `pnpm install --frozen-lockfile`, samt gjøre sikkerhetssjekker på koden.
 
-## [Neste steg ->](/3.%20Package%20registry/README.md)
+## [Neste steg ->](/3-Package-registry/README.md)

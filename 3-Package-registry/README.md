@@ -21,3 +21,5 @@ For å hente pakker fra Github npm registry trenger man en token. Denne generere
 ![alt text](<Screenshot 2025-12-05 at 12.24.56.png>)
 
 ![alt text](<Screenshot 2025-12-05 at 12.25.50.png>)
+
+## [Neste steg ->](/4-Sette-opp-Aksel/README.md)
