@@ -76,9 +76,12 @@ const Example = () => {
 };
 ```
 
-### Steg 6: Ikoner
+## Steg 6: Ikoner
 
 [Aksel har også en egen ikonpakke med over 900 ikoner tilgjengelig](https://aksel.nav.no/komponenter/ikoner).
+
+> [!TIP]
+> Bruk [ikonsøket på aksel.nav.no](https://aksel.nav.no/ikoner) for å finne riktig ikon. Der kan du enkelt kopiere import-navnet (f.eks. `PencilIcon`).
 
 ```tsx
 import { PencilIcon } from "@navikt/aksel-icons";
@@ -88,6 +91,23 @@ const ExampleWithIcon = () => {
     <Button icon={<PencilIcon title="a11y-title" />}>Rediger søknad</Button>
   );
 };
+```
+
+## Steg 7: Design Tokens
+
+Vi bruker Design Tokens (CSS-variabler) for å sikre konsistent bruk av farger, avstander, skygger og typografi. Unngå hardkodede hex-koder eller pixel-verdier der det er mulig.
+
+[Se oversikt over alle tokens her](https://aksel.nav.no/grunnleggende/styling/design-tokens).
+
+Eksempel:
+
+```css
+.my-component {
+  background-color: var(--a-surface-subtle);
+  padding: var(--a-spacing-4);
+  border-radius: var(--a-border-radius-medium);
+  color: var(--a-text-default);
+}
 ```
 
 ## [Neste steg ->](/5-Stylelint/README.md)
