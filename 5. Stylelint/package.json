@@ -3,16 +3,5 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "lint": "stylelint '**/*.css'"
-  },
-  "stylelint": {
-    "extends": [
-      "@navikt/aksel-stylelint/recommended"
-    ]
-  },
-  "dependencies": {
-    "@navikt/aksel-stylelint": "^7.35.1",
-    "stylelint": "^16.26.1"
-  }
+  "scripts": {}
 }
