@@ -2,6 +2,8 @@
 
 Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være litt bedre kjent med Aksel, ha utviklermiljøet sitt oppe å gå og ha brukt Aksel litt.
 
+[Presentasjon](</assets/Onboarding Frontend - vinter 2025.pdf>)
+
 ## Steg
 
 ### Devmiljø
