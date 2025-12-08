@@ -4,6 +4,11 @@ Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være li
 
 [Presentasjon](</assets/Onboarding Frontend - vinter 2025.pdf>)
 
+## Kontakt oss
+
+- [Github](https://github.com/navikt/aksel)
+- Slack: #aksel-designsystemet
+
 ## Steg
 
 ### Devmiljø
