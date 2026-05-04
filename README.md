@@ -1,8 +1,6 @@
-# Aksel onboarding vinter 2025
+# Aksel onboarding vår 2026
 
-Velkommen til onboarding av Aksel! Målet for sessionen er at alle skal være litt bedre kjent med Aksel, ha utviklermiljøet sitt oppe å gå og ha brukt Aksel litt.
-
-[Presentasjon](</assets/Onboarding Frontend - vinter 2025.pdf>)
+Velkommen til introduksjon av Aksel! Målet for sesjonen er at alle skal være litt bedre kjent med Aksel, ha utviklermiljøet sitt oppe å gå og ha brukt Aksel litt.
 
 ## Kontakt oss
 

@@ -105,10 +105,10 @@ Eksempel:
 
 ```css
 .my-component {
-  background-color: var(--a-surface-subtle);
-  padding: var(--a-spacing-4);
-  border-radius: var(--a-border-radius-medium);
-  color: var(--a-text-default);
+  background-color: var(--ax-bg-neutral-moderate);
+  padding: var(--ax-space-16);
+  border-radius: var(--ax-radius-8);
+  color: var(--ax-text-neutral);
 }
 ```
 

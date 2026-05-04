@@ -6,5 +6,4 @@
 /* Hvis man bruker ikke-eksisterende token, får man feil på det */
 .my-css {
   background-color: var(--a-red-501);
-  /* background-color: var(--a-red-500); */
 }
